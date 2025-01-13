@@ -1,8 +1,6 @@
 ### Hi there 👋
 ---
 <p align="left">My name is Zachary and I am a CS graduate from Northern Arizona University. I currently work at Wells Fargo in the Enterprise Functions Technology line of business!</p>
-###
-
 
 
 
