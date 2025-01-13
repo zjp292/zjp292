@@ -1,5 +1,10 @@
 ### Hi there 👋
 ---
+<p align="left">My name is Zachary and I am a CS graduate from Northern Arizona University. I currently work at Wells Fargo in the Enterprise Functions Technology line of business!</p>
+###
+
+
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zjp292&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zjp292&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
